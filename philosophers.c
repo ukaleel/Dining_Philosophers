@@ -1,6 +1,5 @@
 /*
 Dining Philosophers Problem
-CSCE 420 Operating Systems
 Usman Kaleel
 
 */
